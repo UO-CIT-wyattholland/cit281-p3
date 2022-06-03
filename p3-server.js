@@ -1,3 +1,4 @@
+/*
 const fs = require('fs');
 const { coinCount } = require('./p3-module.js');
 const fastify = require("fastify")();
@@ -75,3 +76,4 @@ fastify.listen(listenPort, listenIP, (err, address) => {
         }
     console.log(`Server listening on ${address}`);
 });
+*/
